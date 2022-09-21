@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "main": "src/Homepage/app.js",
-  "engines": {
-    "node": "^14.15.1"
-  },
   "scripts": {
     "postinstall": "patch-package",
     "start": "parcel html/index.html html/searchResults.html html/categoryPageMan.html html/categoryPageWoman.html html/categoryPageShoes.html --public-url /",
