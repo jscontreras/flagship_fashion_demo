@@ -4,7 +4,7 @@
   "private": true,
   "main": "src/Homepage/app.js",
   "engines": {
-    "node": "14.15.1"
+    "node": "^14.15.1"
   },
   "scripts": {
     "postinstall": "patch-package",
